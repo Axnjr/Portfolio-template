@@ -1,5 +1,16 @@
+
+<div align="center">
+  
 # Template to create a fancy portfolio like mine 😎✨
+<br>
+
+![Recording 2024-01-22 162408](https://github.com/Axnjr/Portfolio-template/assets/111436589/ec0096b6-bc3b-4a34-ae6a-3bf085ba59a6)
+
+<br>
 My Portfolio: https://axn.vercel.app
+  
+</div>
+
 
 ## How to use 🤔 ??
 - Clone the repo.
