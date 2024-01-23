@@ -13,7 +13,7 @@ My Portfolio: https://axn.vercel.app
 
 
 ## How to use 🤔 ??
-- Clone the repo.
+- Fork this template
 - Download the locally
 - Hit `pnpm i` or `npm i`
 - Edit the `PortfolioConfig` Object according to you in the [`portfolio.js`](https://github.com/Axnjr/Portfolio-template/blob/main/dist/assets/portfolio.js) file.
@@ -26,5 +26,3 @@ My Portfolio: https://axn.vercel.app
 - Fork this template 🍴
 - Any ideas to make it better send a PR ✊
 - Craete issues if found 🙃
-
-## Help a desperate developer to get stars & forks 😅❤️.
