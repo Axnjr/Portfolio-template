@@ -16,13 +16,13 @@ My Portfolio: https://axn.vercel.app
 - Fork this template
 - Download the locally
 - Hit `pnpm i` or `npm i`
-- Edit the `PortfolioConfig` Object according to you in the [`portfolio.js`](https://github.com/Axnjr/Portfolio-template/blob/main/dist/assets/portfolio.js) file.
+- Edit the `PortfolioConfig` Object according to you in the [`config.js`](https://github.com/Axnjr/Portfolio-template/blob/main/src/config.js) file.
 - Edit the title, icon (optionally) & description of the site in the [`index.html`](https://github.com/Axnjr/Portfolio-template/blob/main/dist/index.html)
-- Run it `pnpm run preview` or `npm run preview`
-- Deploy on vercel or wherever you want : )
+- Run it `pnpm run dev`
+- Deploy on Vercel or wherever you want : )
 
 ## Humanity 🫂🤗
 - Star this template ⭐
 - Fork this template 🍴
 - Any ideas to make it better send a PR ✊
-- Craete issues if found 🙃
+- Create issues if found 🙃
