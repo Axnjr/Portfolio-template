@@ -14,7 +14,7 @@ My Portfolio: https://axn.vercel.app
 
 ## How to use 🤔 ??
 - Fork this template
-- Download the locally
+- Download it locally
 - Hit `pnpm i` or `npm i`
 - Edit the `PortfolioConfig` Object according to you in the [`config.js`](https://github.com/Axnjr/Portfolio-template/blob/main/src/config.js) file.
 - Edit the title, icon (optionally) & description of the site in the [`index.html`](https://github.com/Axnjr/Portfolio-template/blob/main/dist/index.html)
